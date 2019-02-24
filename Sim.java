@@ -6,5 +6,6 @@ public class Sim {
         System.out.println("Hello world");
         System.out.println("I'm Rose");
         System.out.println("I'm 20");
+        System.out.println("I'm a student");		
     }
 }
